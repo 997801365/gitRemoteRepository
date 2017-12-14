@@ -1,0 +1,24 @@
+2017年11月23号：
+	springMVC+mybatis,需要学习
+	在过程看到redis,完全不懂
+	Ajax理解不深入
+	分布式的架构演变
+
+
+
+2017年11月28日：
+	sql语句
+
+
+存储过程
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFN0UflJEFRn3+peYPjsjGlweFK14T72
+osbgMVQ1hG1ub8v8wJXP55tv7B+fFIz+v4VGdcLFmAx05i+Ne3uEnpI0SdtJNTGCSJtg4E
+FKjuu0SeiCJRqPD6Ea80Sf3Aled+ABLLWqMUz58s4vyMywwCiGClff52y8CrInZK0XOSHr
+W++UmWedz192GO2vKKaj0QxjitmT5I+JPhCEuYJtSE6+xDTZKFIqzvN+7vQVgTWVBhrf6T
+WHLlIkP/QnFfbwEgJVmoSJIoGTndsilN0HMK45WDExZqYnE9BiB65DyRc21xNjhRAMe0Ld
+xCN62WWlkzXbj8RuXeZxpGbYFT4djB Lenovo@zfd-laptop
+
+
+新加
